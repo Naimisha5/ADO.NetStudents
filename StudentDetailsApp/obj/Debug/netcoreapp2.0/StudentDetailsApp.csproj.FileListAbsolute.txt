@@ -1,0 +1,11 @@
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\obj\Debug\netcoreapp2.0\StudentDetailsApp.csprojAssemblyReference.cache
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\obj\Debug\netcoreapp2.0\StudentDetailsApp.csproj.CoreCompileInputs.cache
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\obj\Debug\netcoreapp2.0\StudentDetailsApp.AssemblyInfoInputs.cache
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\obj\Debug\netcoreapp2.0\StudentDetailsApp.AssemblyInfo.cs
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\bin\Debug\netcoreapp2.0\StudentDetailsApp.deps.json
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\bin\Debug\netcoreapp2.0\StudentDetailsApp.runtimeconfig.json
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\bin\Debug\netcoreapp2.0\StudentDetailsApp.runtimeconfig.dev.json
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\bin\Debug\netcoreapp2.0\StudentDetailsApp.dll
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\bin\Debug\netcoreapp2.0\StudentDetailsApp.pdb
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\obj\Debug\netcoreapp2.0\StudentDetailsApp.dll
+C:\Users\Naimisha.G\source\repos\StudentDetailsApp\StudentDetailsApp\obj\Debug\netcoreapp2.0\StudentDetailsApp.pdb
